@@ -1,6 +1,6 @@
 ---
 title: "Web Page using Plotly"
-author: "Abheer Shankar Prasad"
+author: "Aaryan Bhatt"
 date: "23/10/2021"
 output:  ioslides_presentation
 ---
